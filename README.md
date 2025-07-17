@@ -1,1 +1,1 @@
-# 0-1knapsack-problem
+The project "0/1 knapsack problem "means that the items are either completely or no items are filled in a knapsack. For example, we have two items having weights 2kg and 3kg, respectively. If we pick the 2kg item then we cannot pick 1kg item from the 2kg item (item is not divisible); we have to pick the 2kg item completely. This is a 0/1 knapsack problem in which either we pick the item completely or we will pick that item and by using steps we solve this problem in C graphics.
